@@ -2,6 +2,8 @@
 Programa de escritorio a modo de practica para el uso de la libreria Swing de Java. Sirve para almacenar ideas, apuntes o tareas por tema. 
 Además, "cada apunte" le podemos agregar notas en relación al titulo del apunte.
 He utilizado Java 1.8.0_391 y Mysql.
+Antes usar debes de ir a la carpeta "config/" en donde encontraras el archivo de la base de datos "notadb.sql" y debes de haber creado un "schema"
+nuevo en el que debes de ejecutar este archivo para que genere las tablas necesarias para que funcione.
 
 ## Imagenes:
 Debes de poner tus credenciales de la base de datos:
